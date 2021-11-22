@@ -1,4 +1,4 @@
-exportclass Agenda extends Array
+export class Agenda extends Array
 {
     add(node)
     {
